@@ -7,5 +7,6 @@ public class Demo {
 		System.out.println("linea 2");
 		System.out.println("linea 3");
 		/* cambio desde mars */
+		// cambio 2 despues del merge
 	}
 }
